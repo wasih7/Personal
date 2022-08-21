@@ -1,2 +1,2 @@
 # Personal
-![](Qur'an quote.png)
+![alt text](Qur'an quote.png)
