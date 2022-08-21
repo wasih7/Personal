@@ -1,6 +1,2 @@
- <div style="background-image: url('Qur'an quote.png'); 
-  background-size: cover; height:480px; padding-top:80px;">
-</div>
-
-![alt text](Qur'an quote.png)
+<img src="Qur'an quote.png" alt="quote" width="200"/>
 # Personal
